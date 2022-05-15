@@ -1,2 +1,2 @@
-# xenix.github.io
+# xenixcat.github.io
 my website
